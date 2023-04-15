@@ -11,6 +11,7 @@
 
 - ⚡ Fun fact **Laravel was named after the toy bricks "Lego" as the framework is modular and customizable, and its logo features a bumblebee to represent its speed and efficiency.**
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fjusmarktech.com%2Fweb_development&psig=AOvVaw1kdqH1DLXa4S-2bg_UXE8B&ust=1681615525915000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODi-djqqv4CFQAAAAAdAAAAABAI" alt="" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmedqwaider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedqwaider" height="30" width="40" /></a>
