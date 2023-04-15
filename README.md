@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">I'm a Cybersecurity Engineer and Backend Developer</h3>
-<br/>
-<br/>
  <hr/>
 
 <p align="left"> <a href="https://twitter.com/ahemdqwaider?s=11&t=KJd-WJAa8igsDeXoy6p-CA" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedqwaider?logo=twitter&style=for-the-badge" alt="ahmedqwaider" /></a> </p>
