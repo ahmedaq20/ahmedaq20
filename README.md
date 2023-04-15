@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">I'm a cybersecurity engineer and backend developer</h3>
+<h3 align="center">I'm a Cybersecurity engineer and Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedaq20&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedaq20" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedaq20" alt="ahmedaq20" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ahmedqwaider" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedqwaider?logo=twitter&style=for-the-badge" alt="ahmedqwaider" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ahemdqwaider?s=11&t=KJd-WJAa8igsDeXoy6p-CA" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedqwaider?logo=twitter&style=for-the-badge" alt="ahmedqwaider" /></a> </p>
 
 - 🔭 I’m currently working on **Decentralized-storage-IPFS**
 
 - ⚡ Fun fact **Laravel was named after the toy bricks "Lego" as the framework is modular and customizable, and its logo features a bumblebee to represent its speed and efficiency.**
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fjusmarktech.com%2Fweb_development&psig=AOvVaw1kdqH1DLXa4S-2bg_UXE8B&ust=1681615525915000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODi-djqqv4CFQAAAAAdAAAAABAI" alt="" />
+<img src="https://miro.medium.com/v2/resize:fit:4800/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" alt="" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ahmedqwaider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedqwaider" height="30" width="40" /></a>
+<a href="https://twitter.com/ahemdqwaider?s=11&t=KJd-WJAa8igsDeXoy6p-CA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedqwaider" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-qwaider-017495211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-qwaider-017495211/" height="30" width="40" /></a>
 </p>
 
