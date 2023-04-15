@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">I'm a Cybersecurity engineer and Backend developer</h3>
-
-
+<h3 align="center">I'm a Cybersecurity Engineer and Backend Developer</h3>
+<br/>
+<br/>
 <p align="left"> <a href="https://twitter.com/ahemdqwaider?s=11&t=KJd-WJAa8igsDeXoy6p-CA" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedqwaider?logo=twitter&style=for-the-badge" alt="ahmedqwaider" /></a> </p>
-
+ <hr/>
 - 🔭 I’m currently working on **Decentralized-storage-IPFS**
 
 - ⚡ Fun fact **Laravel was named after the toy bricks "Lego" as the framework is modular and customizable, and its logo features a bumblebee to represent its speed and efficiency.**
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahemdqwaider?s=11&t=KJd-WJAa8igsDeXoy6p-CA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedqwaider" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-qwaider-017495211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-qwaider-017495211/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-qwaider-017495211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-qwaider-017495211/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
